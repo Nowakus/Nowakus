@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Marcin. I am employed by BNL Lab (Long Island, NY) to work on the ATLAS experiment at LHC (near Geneva) as a software specialist.
+ATLAS software is open source, but not on GitHub. But one of the important software components that is used by the ATLAS software framework, Athena, is here - ROOT.
 
 <!--
 **Nowakus/Nowakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
